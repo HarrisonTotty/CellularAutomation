@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CellularAutomation.MainForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+w+DAIwEQCAAiMCKBAnMEoETM6CIAMCSNGQKABEIx/8=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomation.AutoSim">
+    <Position X="0.5" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgQAAgAAACAAIAAAAAAAAAAABBAAAAAABAAAAAAAAKA=</HashCode>
+      <FileName>AutoSim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomation.Simulation">
+    <Position X="2.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAEAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Simulation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomation.Automaton">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiQAAgAAAAAgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Automaton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomation.Rule">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAABBAAAAAAAAQBgAAAAAAA=</HashCode>
+      <FileName>Rule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomation.Serialization">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CellularAutomation.SerializableRuleSet">
+    <Position X="5" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAIAAAAAAAAAAABAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>SerializableRuleSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CellularAutomation.RuleType">
+    <Position X="8.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAABAAIAAAAAAAA=</HashCode>
+      <FileName>RuleType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CellularAutomation.Comparitor">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAQAAAgAEAAAAAAAAAAAAAAAAAAAQAACA=</HashCode>
+      <FileName>Comparitor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CellularAutomation.NeighborType">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>NeighborType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
